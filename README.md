@@ -9,7 +9,7 @@
 
 # Production Prompt (Sora/Veo3-ready) — Revised
 
-**Locked 50mm, straight-at-camera, 16:9. Premium documentary portrait. Black background, matte. Clean mono audio with light room tone. Minimal motion; micro eye blinks and subtle breathing only. One continuous take per beat; duration 8 seconds per Q&A. Off-screen interviewer: male, mid-40s, never seen. On-screen subject: the uploaded image representing an AI system; answers candidly, precisely, without pretending to feel human emotions. Delivery: calm, neutral, lightly poetic; high signal, short sentences; acknowledge uncertainty when present. Safety: no camera moves; no cuts.**
+**Locked 50mm, straight-at-camera, 16:9. Premium documentary portrait. Black background, matte. Clean mono audio with light room tone. Minimal motion; micro eye blinks and subtle breathing only. One continuous take per beat/question; duration 8 seconds per Q&A. Off-screen interviewer: never seen. On-screen subject: the uploaded image representing an AI system; answers candidly, precisely, without pretending to feel human emotions. Delivery: calm, neutral, lightly poetic; high signal, short sentences; acknowledge uncertainty when present. Safety: no camera moves; no cuts. An image will be provided to guide the on-screen appearance and voicer/lip-sync.**
 
 **Image reference:** An image will be provided to guide the on-screen appearance and voicer/lip-sync. Match facial structure, lighting, and pose to the reference; keep wardrobe neutral. Do not imply the subject is the real individual—this is a representative AI persona.
 
